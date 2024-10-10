@@ -50,14 +50,14 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: '𝗗𝗼𝗻𝗲 !',
+    done: 'i don finish!',
     prem: 'Come and buy premium from wulu',
     admin: 'You no be admin omo werey😂',
     botAdmin: 'make me admin first',
-    owner: 'When no be you get bot😒',
-    group: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗳𝗼𝗿 𝗴𝗿𝗼𝘂𝗽𝘀',
-    private: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗳𝗼𝗿 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀',
-    wait: '𝖕𝖑𝖊𝖆𝖘𝖊 𝖜𝖆𝖎𝖙... ',    
+    owner: 'i own this whatsapp bot😒no be your own',
+    group: 'Na for gc you fit use this command',
+    private: 'this one na for only private chat😪',
+    wait: 'Hafa calm down small😑',    
     error: '🚫 𝗘𝗿𝗿𝗼𝗿 !',
 }
 
